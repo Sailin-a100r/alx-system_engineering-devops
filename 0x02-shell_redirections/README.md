@@ -1,1 +1,1 @@
-std in and out
+read me file, Shell redirections
